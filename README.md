@@ -1,5 +1,3 @@
-# btm-frontend
-
 ## Build Setup
 
 ```bash
